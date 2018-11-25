@@ -1,4 +1,4 @@
-package com.bit.poi.server.config;
+package com.bit.poi.server.config.service;
 
 public class ServiceBean {
 
